@@ -1,3 +1,3 @@
 # eJPT-related-stuff
 
-#updated for Hktobr 2022
+#updated for Hacktoberfest 2023
